@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url('../font/open-sans/OpenSans-Regular.ttf');
+}
+
+html {
+    color: #333;
+    font-family: "Open Sans";
+}
